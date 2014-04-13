@@ -1,0 +1,10 @@
+{
+    "jsonrpc": "2.0",
+    "method": "host.get",
+    "params": {
+        "output": "extend"
+    },
+    "id": 2,
+    "auth": "##TOKEN##"
+}
+
